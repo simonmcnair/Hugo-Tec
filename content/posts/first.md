@@ -1,10 +1,10 @@
-+++
-title = 'First Post'
-date = 2024-10-07T13:18:17+01:00
-draft = false
+---
+title: 'First Post'
+date: 2024-10-07T13:18:17+01:00
+draft: false
 tags: ["services available", "introduction"]
 categories: ["tech"]
-+++
+---
 
 # Welcome to www.tecssolutions.co.uk.
 Please feel free to visit cv.tecssolutions.co.uk to view our credentials.

@@ -1,0 +1,42 @@
+baseURL: "https://example.org/"
+languageCode: en-gb
+title: Welcome to Tecssolutions
+theme: hugo-PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello Stranger"
+    Content: Welcome to tecsolutions.co.uk.
+  socialIcons:
+    - name: facebook
+      url: "https://facebook.com/"
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: github
+      url: "https://github.com/"
+
+  cover:
+    linkFullImages: false
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
