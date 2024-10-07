@@ -7,7 +7,7 @@ categories: ["tech"]
 ---
 
 # Welcome to www.tecssolutions.co.uk.
-Please feel free to visit [CV] to view our credentials.
+Please feel free to peruse my [CV](https://cv.tecssolutions.co.uk/ "CV") in order to view my credentials.
 
 Tec Solutions is here to provide you with all the I.T. Services and help that you could need.  Visits in Person up to 10 miles from Market Harborough.  We can also talk you through installing Teamviewer for remote support (completely under your control)
 
