@@ -53,4 +53,4 @@ Whatever your needs, please get in touch via email at help@tecsolutions.co.uk
    [jQuery]: <http://jquery.com>
    [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
    [express]: <http://expressjs.com>
-   [CV]: <https://cv.tecssolutions.co.uk>
+   [CV]: <https://cv.tecssolutions.co.uk/index.html>
