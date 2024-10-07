@@ -36,7 +36,7 @@ Tec Solutions is here to provide you with all the I.T. Services and help that yo
  - Web Site hosting (Sorry we do not design web sites)
 
 
-Whatever your needs, please get in touch via email at help@tecsolutions.co.uk
+Whatever your needs, please get in touch via email at help@tecssolutions.co.uk
 
 
 
