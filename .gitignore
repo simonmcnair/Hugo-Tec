@@ -3,6 +3,6 @@
 #/themes/**
 #!/themes/.empty
 /public/
-/resources
+#/resources
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
