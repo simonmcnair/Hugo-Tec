@@ -3,6 +3,10 @@ languageCode: en-gb
 title: Welcome to Tecssolutions
 theme: ["PaperMod"]
 
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
 params:
   homeInfoParams:
     Title: "Welcome to tecsolutions.co.uk."
