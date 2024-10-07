@@ -7,7 +7,7 @@ categories: ["tech"]
 ---
 
 # Welcome to www.tecssolutions.co.uk.
-Please feel free to visit cv.tecssolutions.co.uk to view our credentials.
+Please feel free to visit [CV] to view our credentials.
 
 Tec Solutions is here to provide you with all the I.T. Services and help that you could need.  Visits in Person up to 10 miles from Market Harborough.  We can also talk you through installing Teamviewer for remote support (completely under your control)
 
@@ -40,3 +40,17 @@ Whatever your needs, please get in touch via email at help@tecsolutions.co.uk
 
 
 
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [dill]: <https://github.com/joemccann/dillinger>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [CV]: <cv.tecssolutions.co.uk>

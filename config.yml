@@ -9,11 +9,11 @@ params:
     Content: Welcome to tecsolutions.co.uk
   socialIcons:
     - name: facebook
-      url: "https://facebook.com/"
-    - name: twitter
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/simon.mcnair"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/simonmcnair/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/simonmcnair/"
 
   cover:
     linkFullImages: false
