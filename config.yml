@@ -3,6 +3,8 @@ languageCode: en-gb
 title: Welcome to Tecssolutions
 theme: ["PaperMod"]
 
+#git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+
 #module:
 #  imports:
 #  - path: github.com/adityatelange/hugo-PaperMod
