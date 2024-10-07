@@ -1,7 +1,7 @@
 # Temporary lock file while building
 /.hugo_build.lock
 /themes/*
-!/themes/.empty
+#!/themes/.empty
 /public/
 /resources
 
