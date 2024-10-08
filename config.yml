@@ -1,7 +1,7 @@
 ---
 baseURL: "www.tecssolutions.co.uk"
 languageCode: en-gb
-title: Welcome to Tecssolutions
+title: Tecssolutions.co.uk
 theme: ["PaperMod"]
 
 # git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
@@ -12,8 +12,8 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: "Welcome to tecsolutions.co.uk."
-    Content: Welcome to tecsolutions.co.uk
+    Title: "Welcome"
+    Content: Based in Market Harborough Tecssolutions is your one stop computing consultancy.
   env: production
   socialIcons:
     - name: facebook
