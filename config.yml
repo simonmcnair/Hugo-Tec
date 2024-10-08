@@ -1,18 +1,20 @@
+---
 baseURL: "www.tecssolutions.co.uk"
 languageCode: en-gb
 title: Welcome to Tecssolutions
 theme: ["PaperMod"]
 
-#git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
+# git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
 
-module:
-  imports:
-  - path: github.com/adityatelange/hugo-PaperMod
+# module:
+#   imports:
+#   - path: github.com/adityatelange/hugo-PaperMod
 
 params:
   homeInfoParams:
     Title: "Welcome to tecsolutions.co.uk."
     Content: Welcome to tecsolutions.co.uk
+  env: production
   socialIcons:
     - name: facebook
       url: "https://www.facebook.com/simon.mcnair"
@@ -20,7 +22,11 @@ params:
       url: "https://github.com/simonmcnair/"
     - name: linkedin
       url: "https://www.linkedin.com/in/simonmcnair/"
-
+  websiteterms: /assets/termsandconditions.html
+  privacypolicy: /assets/privacypolicy.html
+#  footer:
+#    - text: "This is footer text - markdown suported"
+#    - hideCopyright: true
   cover:
     linkFullImages: false
 

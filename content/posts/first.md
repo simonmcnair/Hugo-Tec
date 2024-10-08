@@ -21,6 +21,10 @@ Tec Solutions is here to provide you with all the I.T. Services and help that yo
  - Upgrading your machine from a hard drive to faster Solid State Devices  (SSD's)
  - CCTV (installation, specification)
  - Upgrading or optimising your WiFi
+ - Training on how to set up internet banking, make payments, stay safe
+ - How to use the internet safely (Cyber security)
+ - Using password managers and their benefits
+ - Managing your online storage (onedrive, google drive etc) and how to prevent replication of data you do not want, or save storage.
 
 ## For Hobbyists we can help with:
  - Python coding
@@ -29,7 +33,7 @@ Tec Solutions is here to provide you with all the I.T. Services and help that yo
  - Internet of Things (IOT)
 
 
-## We have also have a wealth of experience with:
+## We also have a wealth of experience with:
  - Docker
  - Virtualisation
  - Windows/Linux/MacOS
