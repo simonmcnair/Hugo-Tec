@@ -11,6 +11,10 @@ theme: ["PaperMod"]
 #   - path: github.com/adityatelange/hugo-PaperMod
 
 params:
+  enableRobotsTXT: true
+
+  title_short: "Tecssolutions consultancy"
+  description: "Market Harborough based computing consultancy"
   homeInfoParams:
     Title: "Welcome"
     Content: Based in Market Harborough Tecssolutions is your one stop computing consultancy.
