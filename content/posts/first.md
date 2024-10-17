@@ -41,19 +41,18 @@ Tec Solutions is here to provide you with all the I.T. Services and help that yo
  - Windows/Linux/MacOS
  - Web Site hosting (Sorry we do not design web sites)
 
- ## For Businesses
-  - EPOS (Electronic Point of Sale) consultancy
-  - Integration
-  - Powershell
-  - System architecture
-  - System Integration
-  - Helpdesk support (First level through 3rd level)
-  - Documentation
-  - DNS/DDNS/DHCP
-  - Wireguard VPN
-  - Migration from onprem to cloud.  Server virtualisation
-  - Monitoring, Dashboarding
-  - 
+## For Businesses
+ - EPOS (Electronic Point of Sale) consultancy
+ - Integration
+ - Powershell
+ - System architecture
+ - System Integration
+ - Helpdesk support (First level through 3rd level)
+ - Documentation
+ - DNS/DDNS/DHCP
+ - Wireguard VPN
+ - Migration from onprem to cloud.  Server virtualisation
+ - Monitoring, Dashboarding 
 
 
 Whatever your needs, please get in touch via email at help@tecssolutions.co.uk
