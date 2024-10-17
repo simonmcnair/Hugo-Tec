@@ -25,6 +25,8 @@ Tec Solutions is here to provide you with all the I.T. Services and help that yo
  - Using password managers and their benefits
  - Managing your online storage (onedrive, google drive etc) and how to prevent replication of data you do not want, or save storage.
  - Purchasing a domain name
+ - Scanning / Digitising Photos, Film, negatives
+ 
 
 ## For Hobbyists we can help with:
  - Python coding
